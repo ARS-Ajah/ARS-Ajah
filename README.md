@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARS-Ajah
 - 👀 I’m interested in Coding and Making Videos
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
-- 📫 How to reach me Dm me at Discord sulthanfattah#2236
+- 💞️ I’m looking to collaborate on Roblox Games
+- 📫 How to reach me Dm me at Discord arsajahsulthanprivateacc
 
 <!---
 ARS-Ajah/ARS-Ajah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
